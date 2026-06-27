@@ -1,0 +1,9 @@
+{
+  "name": "quanyouji-h5",
+  "version": "1.0.0",
+  "private": true,
+  "description": "泉游记：济南 72 名泉移动端导览 H5",
+  "scripts": {
+    "start": "python -m http.server 4188"
+  }
+}
